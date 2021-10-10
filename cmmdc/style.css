@@ -1,0 +1,31 @@
+.container {
+    margin-top: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    border: 1px solid black;
+    background-color: rgb(205, 206, 204);
+    width: 60%;
+    text-align: center;
+}
+
+section {
+    border: 1px solid gray;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 96%;
+}
+
+input[type="number"] {
+    text-align: center;
+}
